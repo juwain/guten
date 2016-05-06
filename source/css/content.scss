@@ -91,6 +91,8 @@ blockquote {
 }
 
 .post-tags {
+  font-size: 18px;
+
   &::before {
     content: "";
     display: inline-block;
